@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1 {
+  text-align: center;
+}
+li {
+  display: flex;
+} 
+.container-title{
+  width: 100%;
+  height: 200px;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);;
+}
+
+.title{
+  padding-top: 30px;
+  color:rgb(191, 207, 219);
+  font-size: 100px;
+}
+
+.container-lista{
+  padding: 0;
+}
+
